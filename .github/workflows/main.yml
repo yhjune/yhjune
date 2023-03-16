@@ -14,4 +14,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # My github token : add more options needed
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          #Options
+          templete : classic
+          config_timezone : Asia/Seoul
+          
+          #Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
