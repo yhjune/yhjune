@@ -26,3 +26,8 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          
+          #language activity
+          plugin_languages: yes
+          
+          
