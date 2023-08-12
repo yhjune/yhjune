@@ -7,8 +7,15 @@
 - ⚡ Fun fact: Huge fan of [Zelda](https://www.youtube.com/watch?app=desktop&v=fYZuiFDQwQw)
 
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=yhjune&hide=stars&count_private=true&show_icons=true&theme=calm" />
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yhjune&hide=stars&count_private=true&show_icons=true&theme=transparent)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhjune09)](https://solved.ac/yhjune09/)
+
+![Metrics](/github-metrics.svg)
+
 
 
 <img height="150"/>
 <br><br>
+

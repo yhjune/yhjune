@@ -16,9 +16,10 @@ jobs:
         with:
           # My github token : add more options needed
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          config_display: large
+          config_order : languages, stars
+
           #Options
-          templete : classic
           config_timezone : Asia/Seoul
           
           #Starred topics
