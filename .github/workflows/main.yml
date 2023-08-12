@@ -18,8 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: large
           config_order : languages, stars
-
-          #Options
           config_timezone : Asia/Seoul
           
           #Starred topics
