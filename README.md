@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyojung&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Hyojung&fontSize=40)
 
 ### ABOUT
 
