@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Hyojung&fontSize=40)
 
+
 ### ABOUT
 
 - 🔭 I’m currently working on my [OIDC project](https://github.com/KUBER-LOUDY/kuber-loudy-spring-boot)
@@ -20,8 +21,14 @@
 
 
 ### WATCHING & PLAYING
-<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <img src = "https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-
+<div align = left>
+  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/54.gif">  
+  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/79.gif"> 
+   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</div>
 
 <h1 align="center"></h1>
 
