@@ -22,7 +22,7 @@
 
 ### WATCHING & PLAYING
 <div align = left>
-  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/54.gif">  
+  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/9.gif">  
   <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/79.gif"> 
    <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> 
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
