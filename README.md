@@ -1,15 +1,15 @@
 
 
 
-
+<div align = center>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yhjune&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/yhjune"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
-  
+<div align = center> 
 
 
 <div align = center>
