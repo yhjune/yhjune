@@ -1,5 +1,11 @@
+
+
+
+
+
+
 ### MORE
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yhjune&hide=stars&count_private=true&show_icons=true&theme=transparent)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhjune09)](https://solved.ac/yhjune09/)
-
-
+<div align = center>
+  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/6.gif"> 
+  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/94.gif"> 
+<div align = center>
